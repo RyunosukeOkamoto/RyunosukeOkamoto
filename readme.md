@@ -3,7 +3,7 @@ MetalDistortion _EffectPlugin
 概要
 JUCEを使用しVST3プラグイン用に製作
 Metal、Bass、Smoothの３つのノブでそれぞれ、ディストーション、低音の増加、歪みの低減の調節が可能です
-
+ChatGPTを活用し作成
 
 ファイル構成
 PluginProcessor.cpp/PluginProcessor.h
